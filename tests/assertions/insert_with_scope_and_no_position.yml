@@ -1,0 +1,46 @@
+tbl_items_with_scope:
+    -
+     id: 1
+     position: 1
+     scope1: 1
+     scope2: 1
+    -
+     id: 2
+     position: 2
+     scope1: 1
+     scope2: 1
+    -
+     id: 3
+     position: 3
+     scope1: 1
+     scope2: 1
+    -
+     id: 4
+     position: 4
+     scope1: 1
+     scope2: 1
+    -
+     id: 5
+     position: 1
+     scope1: 1
+     scope2: 2
+    -
+     id: 6
+     position: 2
+     scope1: 1
+     scope2: 2
+    -
+     id: 7
+     position: 3
+     scope1: 1
+     scope2: 2
+    -
+     id: 8
+     position: 4
+     scope1: 1
+     scope2: 2
+    -
+     id: 9
+     position: 5
+     scope1: 1
+     scope2: 1

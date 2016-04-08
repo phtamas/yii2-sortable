@@ -1,0 +1,13 @@
+tbl_items:
+    -
+     id: 1
+     position: 1
+    -
+     id: 2
+     position: 3
+    -
+     id: 3
+     position: 2
+    -
+     id: 4
+     position: 4
