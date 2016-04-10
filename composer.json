@@ -1,4 +1,20 @@
 {
+    "name": "phtamas/yii2-sortable",
+    "description": "Sortable behavior for Yii2 Active Record",
+    "keywords": [
+        "yii2",
+        "behavior",
+        "sortable"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Papp-Horváth Tamás",
+            "email": "phtamas@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+
     "require": {
         "yiisoft/yii2": "~2.0.7"
     },
