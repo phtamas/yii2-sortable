@@ -10,8 +10,11 @@
 
     "autoload": {
         "psr-4": {
-            "phtamas\\yii2\\sortable\\": "src/",
-            "phtamas\\yii2\\sortable\\tests\\": "tests/"
+            "phtamas\\yii2\\sortable\\": "src/"
         }
+    },
+
+    "autoload-dev": {
+        "phtamas\\yii2\\sortable\\tests\\": "tests/"
     }
 }
